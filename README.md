@@ -53,4 +53,4 @@ pandas, numpy, seaborn, sklearn
 
 
 ## Contact
-Created by [@patkarlab - feel free to contact me!
+Created by @patkarlab - feel free to contact me!
